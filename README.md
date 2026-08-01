@@ -1,7 +1,3 @@
-
-اما در README فقط ساختار فایل کافی نیست. برای Portfolio بهتر است این بخش‌ها را هم داشته باشی:
-
-```md
 # 🛒 Checkout Panel UI
 
 A modern and responsive Checkout Panel user interface built with HTML5 and CSS3.
